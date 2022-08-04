@@ -91,13 +91,6 @@ nav #nav-links li a {
     color: var(--test-color);
     text-transform: uppercase;
 }
-nav #nav-links li> a:active,
-nav #nav-links li> a:hover,
-#nav-links li> a:focus{
-    background-color: var(--hover-bg-color);
-    color: whitesmoke !important;
-}
-
 
 /* CV-button style */
 .cv-button a {
